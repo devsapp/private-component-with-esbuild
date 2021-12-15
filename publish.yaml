@@ -1,5 +1,5 @@
 Type: Component
-Name: 名称
+Name: private-component-with-esbuild
 Provider:
   - 其它
 Version: dev
