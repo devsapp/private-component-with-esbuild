@@ -53,11 +53,11 @@ var ComponentDemo = /** @class */ (function () {
             return __generator(this, function (_a) {
                 logger_1.default.debug("input: ".concat(JSON.stringify(inputs.props)));
                 logger_1.default.info('command test');
-                return [2 /*return*/, { hello: 'world' }];
+                return [2 /*return*/, { hello: 'worldxxx' }];
             });
         });
     };
     return ComponentDemo;
 }());
 exports.default = ComponentDemo;
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi9zcmMvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBQSwyREFBcUM7QUFHckM7SUFBQTtJQVdBLENBQUM7SUFWQzs7OztPQUlHO0lBQ1UsNEJBQUksR0FBakIsVUFBa0IsTUFBa0I7OztnQkFDbEMsZ0JBQU0sQ0FBQyxLQUFLLENBQUMsaUJBQVUsSUFBSSxDQUFDLFNBQVMsQ0FBQyxNQUFNLENBQUMsS0FBSyxDQUFDLENBQUUsQ0FBQyxDQUFDO2dCQUN2RCxnQkFBTSxDQUFDLElBQUksQ0FBQyxjQUFjLENBQUMsQ0FBQztnQkFDNUIsc0JBQU8sRUFBRSxLQUFLLEVBQUUsT0FBTyxFQUFFLEVBQUM7OztLQUMzQjtJQUNILG9CQUFDO0FBQUQsQ0FBQyxBQVhELElBV0MifQ==
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi9zcmMvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBQSwyREFBcUM7QUFHckM7SUFBQTtJQVdBLENBQUM7SUFWQzs7OztPQUlHO0lBQ1UsNEJBQUksR0FBakIsVUFBa0IsTUFBa0I7OztnQkFDbEMsZ0JBQU0sQ0FBQyxLQUFLLENBQUMsaUJBQVUsSUFBSSxDQUFDLFNBQVMsQ0FBQyxNQUFNLENBQUMsS0FBSyxDQUFDLENBQUUsQ0FBQyxDQUFDO2dCQUN2RCxnQkFBTSxDQUFDLElBQUksQ0FBQyxjQUFjLENBQUMsQ0FBQztnQkFDNUIsc0JBQU8sRUFBRSxLQUFLLEVBQUUsVUFBVSxFQUFFLEVBQUM7OztLQUM5QjtJQUNILG9CQUFDO0FBQUQsQ0FBQyxBQVhELElBV0MifQ==

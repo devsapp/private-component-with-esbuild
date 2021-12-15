@@ -10,6 +10,6 @@ export default class ComponentDemo {
   public async test(inputs: InputProps) {
     logger.debug(`input: ${JSON.stringify(inputs.props)}`);
     logger.info('command test');
-    return { hello: 'world' };
+    return { hello: 'worldxxx' };
   }
 }
