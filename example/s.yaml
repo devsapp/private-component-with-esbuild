@@ -6,7 +6,8 @@ vars: # [全局变量，提供给各个服务使用]
 
 services:
   component-test:
-    component: ${path(..)}  # 这里引入的是相对路径，正式配置替换成你自己的component名称即可 
+    # component: ${path(..)}  # 这里引入的是相对路径，正式配置替换成你自己的component名称即可 
+    component: 'devsapp/private-component-with-esbuild@dev'
     props:
       name: ${component-test2.props.name}
       otherInput: ${component-test2.output.hello}
